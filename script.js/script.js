@@ -1,5 +1,5 @@
 {\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww11300\viewh8400\viewkind0
@@ -32,7 +32,8 @@ const lessons = \{\
       content: 'Create a function that returns the square of a number.', \
       hint: 'def square(x): return x*x' \
     \}\
-  ]\
+  ]
+\f1 \
 \};\
 \
 let currentLesson = null;\
